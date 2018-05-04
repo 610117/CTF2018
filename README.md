@@ -1,7 +1,7 @@
 # CTF2018
 ![圖片](pic/banana-boy-20.png)
 1.使用binwlak
-
+![圖片](pic/banana-boy-20-1.png)
 2.用 dd 抽出檔案
 。if是指定輸入檔
 。of是指定輸出檔
