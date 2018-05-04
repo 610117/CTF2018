@@ -1,4 +1,5 @@
 # CTF2018
+![圖片](pic/banana-boy-20.png)
 1.使用binwlak
 
 2.用 dd 抽出檔案
